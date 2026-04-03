@@ -14,7 +14,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parashonashetti&layout=compact&theme=radical" />
 
 <img src="https://streak-stats.demolab.com?user=parashonashetti&theme=radical" />
----
-[![](https://visitcount.itsvg.in/api?id=parashonashetti&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
