@@ -1,6 +1,11 @@
-# 💫 About Me:
-## About Me :<br><br>🔭 I’m currently working on AI/ML projects and exploring machine learning concepts<br>👯 I’m looking to collaborate on AI/ML projects, especially machine learning and data analysis<br>🤝 I’m looking for guidance in AI/ML, Data Structures & Algorithms (DSA), and backend development<br>🌱 I’m currently learning Machine Learning, Data Structures & Algorithms (DSA), and backend fundamentals<br>💬 Ask me about AI/ML, Data Structures & Algorithms (DSA), Python, SQL, Operating Systems, and backend fundamentals<br>⚡ Fun fact: I enjoy building AI/ML projects and improving my coding skills every day 🚀
+## Hi there 👋
 
+I'm an AI & Data Science student passionate about creating intelligent and data-driven solutions.
+
+- 🔭 I’m currently working on AI/ML projects  
+- 🌱 I’m currently learning Machine Learning and DSA  
+- 💬 Ask me about AI/ML, Python, SQL, and backend development  
+- 📫 Reach me at: parashonashetti@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parashonashetti45) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/paras-honashetti-066a872bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
